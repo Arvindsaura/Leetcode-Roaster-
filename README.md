@@ -6,6 +6,7 @@ LeetCode Roaster is a fun and engaging web app that generates savage roasts base
 
 - **User Profile Fetching**: Enter your LeetCode username and the app fetches your stats from the LeetCode API.
 - **Personalized Roasts**: The app uses your LeetCode stats (total problems solved, acceptance rate, contribution points, and more) to generate a unique roast.
+- **Google Gemini API**: The app uses the **Google Gemini API** to generate the witty and dynamic roasts based on the fetched LeetCode data.
 - **Dark/Light Theme**: Toggle between dark and light modes for a better user experience.
 - **Visitor Counter**: Track how many people have visited the site.
 - **Mobile-Friendly**: The app is responsive and works well on both desktop and mobile.
@@ -14,6 +15,7 @@ LeetCode Roaster is a fun and engaging web app that generates savage roasts base
 
 - **Frontend**: React, Vite, Axios
 - **Backend**: LeetCode Stats API
+- **AI API**: Google Gemini API for generating dynamic roasts
 - **Styling**: CSS (for custom styles)
 
 ## How to Use
